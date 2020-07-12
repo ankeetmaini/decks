@@ -9,6 +9,7 @@
     "code-surfer": "^3.1.1",
     "gatsby": "^2.24.2",
     "gatsby-plugin-compile-es6-packages": "^2.1.0",
+    "gatsby-theme-mdx-deck": "^4.1.0",
     "mdx-deck": "^4.1.1",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
